@@ -8,7 +8,8 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                    Your Application's Landing Page.
+                    <h3><a href="/home">ProProfs Embedded iFrame</a></h3>
+                    <h3><a href="/home">Error Video</a></h3>
                 </div>
             </div>
         </div>
